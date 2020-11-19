@@ -1,2 +1,2 @@
-# INFO2180 Lab 7
+# INFO2180 Lab 5
 Using PHP and SQL
